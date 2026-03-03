@@ -1,6 +1,6 @@
 # Paragon
 **Project Idea**
-Paragon is a premium car care brand built for those who believe details matter. With high-performance, coating-safe formulas like Revive, it delivers deep cleaning, rich foam, and refined protection. More than a wash, Paragon turns routine car care into a statement of precision and presence.
+> Paragon is a premium car care brand built for those who believe details matter. With high-performance, coating-safe formulas like Revive, it delivers deep cleaning, rich foam, and refined protection. More than a wash, Paragon turns routine car care into a statement of precision and presence.
 
 **Team Leader** 
 - Habiba Wael
